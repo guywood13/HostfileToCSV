@@ -10,7 +10,7 @@ The script handles multiple (hopefully all) possible variances in host file form
 
 Files:
 host_example              Example host files with fake records
-hostfile_to_csv.ps1       Script
+hostfile_to_csv_v1.0.ps1       Script
 
 # Future enhancements
 
