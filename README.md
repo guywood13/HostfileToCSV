@@ -6,11 +6,11 @@ PowerShell script that converts Windows hostfile into CSV
 Takes a Windows host file and converts it into CSV format using Powershell.
 Host file must be copied from C:\Windows\System32\drivers\etc into the project directory.
 CSV file will be dropped to the same directory.
-The script handles multiple (hopefully all) possible variances in host file formatting
+The script handles multiple (hopefully all) possible variances in host file formatting.
 
 Files:
-host_example              Example host files with fake records
-hostfile_to_csv_v1.0.ps1       Script
+1. host_example - Example host files with fake records
+2. hostfile_to_csv_v1.0.ps1 - Script
 
 # Future enhancements
 
