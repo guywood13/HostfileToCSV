@@ -26,3 +26,4 @@
 4.5.6.7		server4		server5		server6		server7		# multi server entry
 8.8.8.8		server8#server 3
 9.9.9.9 server9
+10.10.10.10	server10 srv10 s10			srv_10
